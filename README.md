@@ -72,6 +72,8 @@ You may still get another warning about macOS not being able to verify the devel
 
 If you get a white screen appearing in the top-left corner of your screen then you're ready to start learning to use Improviz!
 
+![improviz_macos_015](images/improviz_macos_015.png)
+
 If you don't you can report an issue to the developer by going to the address below.
 
 You can also chat visit a forum for livecoding where a community of users may be able to help you.
